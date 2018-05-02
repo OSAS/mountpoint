@@ -5,7 +5,8 @@
 # ABOUT
 Software-defined Storage (SDS) is changing the traditional way we think of storage. Decoupling software from hardware allows you to choose your hardware vendors and provides enterprises with more flexibility. 
 
-Attend mountpoint on August 27 - 28, 2018 in Vancouver, BC, before Open Source Summit North America for this first time event. We are joining forces with the Ceph and Gluster communities, SDS experts, and partners to bring to you an exciting 2 day event. Help lead the conversation on open source software defined storage and share your knowledge! 
+Announcing mountpoint on August 27 - 28, 2018 in Vancouver, BC, before Open Source Summit North America!
+We are joining forces with the Ceph and Gluster communities, SDS experts, and partners to bring to you an exciting 2 day event. Help lead the conversation on open source software defined storage and share your knowledge! 
 
 ## WHY ATTEND
 - Learn about the latest trends in SDS and open source technologies
