@@ -1,3 +1,7 @@
+<link rel="stylesheet" href="style.css">
+
+<img src="images/logo.svg" id="logo" alt="Mountpoint" />
+
 Mountpoint 2018 brings together software-defined storage communities, comprised of passionate storage engineers and researchers. 
 
 # Why Sponsor Mountpoint 2018? 
