@@ -16,7 +16,9 @@ Attend mountpoint on August 27 - 28, 2018 in Vancouver, BC, before Open Source S
 - Gain a competitive advantage by learning about the latest trends of SDS 
 
 ## CALL FOR PROPOSALS 
-Our call for proposals will open shortly.
+[Our call for proposals is open!](https://goo.gl/wKNQLF)
+Our CPF closes on June 15, 2018. We'll announce a schedule in late June. 
+
 Suggested topics include:
 - Software Defined Storage (SDS)
 - Best practices and Use cases, share a problem you’ve solved (or haven’t solved yet!)
@@ -31,5 +33,5 @@ Suggested topics include:
 - Data Compression and Storage Optimization
 
 ## SPONSORSHIP
-Sponsorship will open at the same time as our call for proposals. 
+[Our Sponsorship Prospectus](/sponsor)
 
