@@ -10,7 +10,7 @@ We are joining forces with the Ceph and Gluster communities, SDS experts, and pa
 
 ## WHY ATTEND
 - Learn about the latest trends in SDS and open source technologies
-- Talk with leading experts to learn how to start, implement and scale your SDS environment
+- Talk with leading experts to learn how to start, implement, and scale your SDS environment
 - Network with peers on best practices and case studies 
 - Hear from other community members and contributors on what workloads they are using for SDS
 - Learn how to overcome the pitfalls of SDS 
@@ -18,7 +18,7 @@ We are joining forces with the Ceph and Gluster communities, SDS experts, and pa
 
 ## CALL FOR PROPOSALS 
 [Our call for proposals is open!](https://goo.gl/wKNQLF)
-Our CPF closes on June 15, 2018. We'll announce a schedule in late June. 
+Our CFP closes on June 15, 2018. We'll announce a schedule in late June. 
 
 Suggested topics include:
 - Software Defined Storage (SDS)
