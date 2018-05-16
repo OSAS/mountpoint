@@ -24,7 +24,7 @@ Suggested topics include:
 - Software Defined Storage (SDS)
 - Best practices and Use cases, share a problem you’ve solved (or haven’t solved yet!)
 - Object, Block, and File System Storage Architectures (Ceph, Swift, Cinder, Manila, OpenZFS)
-- Distributed, Clustered, and Parallel Storage Systems (Gluster, Lustre, OrangeFS, XtreemFS, MooseFS, OCFS2, HDFS, BeeGFS, Minio)
+- Distributed, Clustered, and Parallel Storage Systems (Gluster, Lustre, OrangeFS, XtreemFS, MooseFS, OCFS2, HDFS, BeeGFS, Minio, LizardFS)
 - Persistent Memory and Other New Hardware Technologies
 - File System Scaling Issues
 - Storage Management and Automation
