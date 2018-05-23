@@ -33,6 +33,9 @@ Suggested topics include:
 - Long Term, Offline Data Archiving
 - Data Compression and Storage Optimization
 
+## REGISTRATION
+This is a co-located event with [Open Source Summit North America](https://events.linuxfoundation.org/events/open-source-summit-north-america-2018/program/co-located-events/). If you would like to only register for mountpoint, please use this [link](http://www.regonline.com/mountpoint2018).
+
 ## SPONSORSHIP
 [Our Sponsorship Prospectus](/sponsor)
 
