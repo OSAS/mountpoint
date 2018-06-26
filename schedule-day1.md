@@ -1,4 +1,4 @@
-# Mountpoint Schedule 
+# mountpoint 
 ## August 27, 2018 
 
 | Time  	|   	|   	|
