@@ -16,22 +16,13 @@ We are joining forces with the Ceph and Gluster communities, SDS experts, and pa
 - Learn how to overcome the pitfalls of SDS 
 - Gain a competitive advantage by learning about the latest trends of SDS 
 
-## CALL FOR PROPOSALS 
-[Our call for proposals is open!](https://goo.gl/wKNQLF)
-Our CFP closes on June 15, 2018. We'll announce a schedule in late June. 
+## SCHEDULE
+We've announced our program! 
+Two days of software defined storage! 
 
-Suggested topics include:
-- Software Defined Storage (SDS)
-- Best practices and Use cases, share a problem you’ve solved (or haven’t solved yet!)
-- Object, Block, and File System Storage Architectures (Ceph, Swift, Cinder, Manila, OpenZFS)
-- Distributed, Clustered, and Parallel Storage Systems (Gluster, Lustre, OrangeFS, XtreemFS, MooseFS, OCFS2, HDFS, BeeGFS, Minio, LizardFS)
-- Persistent Memory and Other New Hardware Technologies
-- File System Scaling Issues
-- Storage Management and Automation
-- Client/server file systems (NFS, Samba, pNFS)
-- Big Data Storage
-- Long Term, Offline Data Archiving
-- Data Compression and Storage Optimization
+[August 27](/schedule-day1)
+
+[August 28](/schedule-day2)
 
 ## REGISTRATION
 This is a co-located event with [Open Source Summit North America](https://events.linuxfoundation.org/events/open-source-summit-north-america-2018/program/co-located-events/). If you would like to only register for mountpoint, please use this [link](http://www.regonline.com/mountpoint2018).
