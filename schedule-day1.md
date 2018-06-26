@@ -1,7 +1,11 @@
+<link rel="stylesheet" href="style.css">
+
+<img src="images/logo.svg" id="logo" alt="Mountpoint" />
+
 # mountpoint 
 ## August 27, 2018 
 
-| Time  	|   	|   	|
+| Time  	| Session  	| Session  	|
 |---	|---	|---	|
 |  Opening: 9am - 9:15am 	|   	|   	|
 | 9:15am - 9:55am  	|  Approaches for duplicating Kubernetes storage with Gluster 	|  Bringing smart device failure prediction to Ceph 	|
