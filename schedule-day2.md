@@ -1,4 +1,8 @@
-# Mountpoint
+<link rel="stylesheet" href="style.css">
+
+<img src="images/logo.svg" id="logo" alt="Mountpoint" />
+
+# mountpoint
 ## August 28, 2018
 
 | Time  	| Session  	|   Session	|
