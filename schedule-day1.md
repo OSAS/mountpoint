@@ -19,7 +19,7 @@
 |  3:00pm - 3:45pm		|  Modernizing storage system patterns using container technologies 	|   What's new in Ceph	|
 |  Roundtable 4:00pm - 4:45pm|   	|   	|
 |  Closing - 4:45pm to 5:00pm 	|   	|   	|
-Afterevent TBD		
+
 
 ### Approaches for duplicating Kubernetes storage with Gluster
 Many container workloads that are designed for scaling up have a need to consume an initial dataset. There are different ways to populate the PersistentVolume before the app may start. In this talk, Niels explains the options to snapshot and clone PVs through a standard Kubernetes interface.
