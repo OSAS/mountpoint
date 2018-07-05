@@ -48,6 +48,9 @@ Speakers: Humble Chirammal, Joe Julian, and Jose Rivera
 Joe Julian has been in the industry for over 30 years, has been using Gluster for over 10 years, and Kubernetes for a much shorter 2 years - developing a reference implementation and best practice documents for Samsung SDS and helping them implement their new container-native strategy that will be used for all Samsung companies.
 Jose Rivera is a Senior Software Engineer at Red Hat, part of the Container-Native Storage team within Red Hat Storage. He is project lead of the gluster-kubernetes project on GitHub. Currently he is helping develop the Gluster Operator and improving the user experience on both Kubernetes and OpenShift through automation and documentation.
 
+Humble works as a senior software engineer at Red Hat in the Storage Engineering team in the container native storage effort, where he primarily  concentrates on GlusterFS and its integration with container world. 
+He is a maintainer of storage drivers/plugins in kubernetes project and an active contributor to various opensource projects which include Heketi and GlusterFS.
+
 ### Pains & Pleasures Testing the Ceph Distributed Storage stack
 Testing a distributed storage system requires its own distributed system! The Ceph project built “teuthology" to fill this role, and has continued to refine it over the last 7 years. Learn about our successes and failures from both technical and community perspectives.
 
