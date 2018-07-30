@@ -15,7 +15,7 @@
 |   11:00am - 11:45am	|  A Cockpit view of gluster 	|   Ceph cloud object storage: the right way	|
 | Lunch  	|   	|   	|
 |  1:00pm - 1:45pm 	|  Where is my file anyway: A tour of on-disk Gluster data 	|   Lessons Learned Scaling Ceph for Public Clouds	|
-|  2:00pm - 2:45pm	|  Container sharding: A deep dive into the biggest feature in the history of Swift 	|  Rook: Storage Orchestration for a Cloud-Native World 	|
+|  2:00pm - 2:45pm	|  Latest storage IO patterns for cloud-native applications in k8s environment	|  Rook: Storage Orchestration for a Cloud-Native World 	|
 |  3:00pm - 3:45pm		|  Modernizing storage system patterns using container technologies 	|   What's new in Ceph	|
 |  Roundtable 4:00pm - 4:45pm|   	|   	|
 |  Closing - 4:45pm to 5:00pm 	|   	|   	|
@@ -103,12 +103,12 @@ Speaker: Anthony D'Atri
 
 Anthony D'Atri's career in system administration has spanned laptops to vector supercomputers. He has brought his passion for fleet management and the underlying server components to bear on a holistic yet, detailed approach to deployment and operations. Experience with architecture, operation, and troubleshooting of NetApp, ZFS, SVM, and other storage systems dovetailed neatly into Ceph. Three years with Ceph as a petabyte-scale object and block backend to multiple OpenStack clouds at Cisco additionally built on Anthony's depth. Now helping deliver awesome storage to DigitalOcean's droplet customers, Anthony aims to help the growing community build success with Ceph.
 
-### Container sharding: A deep dive into the biggest feature in the history of Swift 
-Container sharding is the biggest single feature that’s been added to OpenStack Swift. It allows for billions of objects to be stored in a single container. This talk will go into detail about how the feature works.
+### Latest storage IO patterns for cloud-native applications in k8s environment
+Applying micro service patterns to storage giving each workload its own Container Attached Storage (CAS) system. This puts the DevOps persona within full control of the storage requirements and brings data agility to k8s persistent workloads. We will go over the concept and the implementation of CAS, as well as its orchestration.
 
-Speaker: John Dickinson
+Speaker: Jeffry Molanus
 
-John Dickinson is Director of Technology at SwiftStack and Project Technical Lead for OpenStack Swift. He began contributing to Swift in 2009, well before the project was open sourced in 2010 as one of the founding projects in OpenStack. John works with developers and deployers all around the world to ensure that Swift is the best object storage system available.
+Jeffry Molanus has been in the storage world for over ten years and worked on various SDS  products where somewhere distributed. Recently, jumped into the container world and interested in finding new patterns for cloud-native applications.
 
 ### Rook: Storage Orchestration for a Cloud-Native World
 With the rise in popularity of cloud-native environments, the way that storage systems are run and managed has needed to adapt. In this talk, we will explore principles of orchestration for storage in cloud-native environments and walk through the architecture of the open-source Rook project.  We will also take a deep dive into Rook's orchestration of Ceph, a distributed storage system designed for performance, reliability and scalability.
