@@ -12,7 +12,7 @@
 |  10:00am - 10:45am 	|  OpenShift.io on Gluster: Adventures in production 	|  Anatomy of a librados client application 	|
 |   11:00am - 11:45am	| Testing Storage System Upgrades Successfully  	|   What Ever Happened to Durability?	|
 | Lunch  	|   	|   	|
-|  1:00pm - 1:45pm 	|  Multi-tenancy Approaches in Gluster 	|  Auto-tuning a Ceph cluster via Machine Learning	|
+|  1:00pm - 1:45pm 	|  Multi-tenancy Approaches in Gluster 	|  Current and Future of Non-Volatile Memory on Linux	|
 |  2:00pm - 2:45pm	| Block Deduplication and Compression with VDO  	| Doctor! I need Ceph: a journey of open source storage in healthcare‍  	|
 |  3:00pm - 3:45pm		| What's new in Gluster?  	|  Self-aware Ceph: enabling ceph-mgr to control Ceph services via Kubernetes 	|
 |  Roundtable 4:00pm - 4:45pm|   	|   	|
@@ -83,12 +83,12 @@ Speaker: Jeff Darcy
 
 Jeff Darcy has 30 years in the industry, 20 in distributed filesystems, nearly 10 as a developer and co-maintainer on Gluster.
 
-### Auto-tuning a Ceph cluster via Machine Learning
-The ""CAPES: Unsupervised Storage Performance Tuning Using Neural Network-Based Deep Reinforcement Learning"" paper caught my attention in 2017. Given that humans are routinely overwhelmed trying to grasp the parameter space of an SDS system, much less optimizing it for specific goals (such as low latency or performance), I would like to discuss if and how this might be applicable to Ceph.  It may also be possible to build an open data corpus for the experience/telemetry data.
+### Current and Future of Non-Volatile Memory on Linux
+Storage hardware has come a long way in performance and reliability, as well as the interfaces it runs on. In this talk, Keith will discuss the current and future state of Non-Volatile Memory Express for both local PCIe attached and remote fabrics connected targets implementing this protocol, as well as the new native multipathing subsystem for increased performance and failover reliability. The talk will go over methods to turn tune applications for various needs, how to turn your Linux machine into an NVMe target, and backing it up with blazingly fast persistent memory for increased speeds.
 
-Speaker: Lars Marowsky-Brée
+Speaker: Keith Busch
 
-Lars Marowsky-Brée joined the Linux world in 1994. His main interest revolve around distributed systems, clustering, and dependable computing. He is one of SUSE's Distinguished Engineers and serves as Architect Software-Defined-Storage. He represents SUSE on the Ceph Advisory Board. Prior to his work on the Ceph projects at SUSE, he was heavily involved with the Linux HA community.
+Keith Busch is a Linux storage software developer at Intel. He collaborates on the various protocol standards that enable current and future non-volatile memory and is the mainline kernel maintainer for NVM Express. Beyond NVMe, Keith contributes to the adjacent subsystems and enabling persistent memory DIMMs.
 
 ### Block Deduplication and Compression with VDO 
 The kvdo device-mapper module provides block level deduplication and compression to the Linux storage stack. This session will provide an overview of VDO and its deployment, a review of usage considerations, and a high-level introduction to its design and implementation.
