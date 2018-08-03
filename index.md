@@ -27,6 +27,10 @@ Two days of software defined storage!
 ## REGISTRATION
 This is a co-located event with [Open Source Summit North America](https://events.linuxfoundation.org/events/open-source-summit-north-america-2018/program/co-located-events/). If you would like to only register for mountpoint, please use this [link](http://www.regonline.com/mountpoint2018).
 
+## SPONSORS 
+<img src="Logo_RH_RGB_Default.png" alt="Red Hat" />
+<img src="images/SOFI-inline-CMYK_full_colour.png" alt="Softiron" />
+
 ## SPONSORSHIP
 [Our Sponsorship Prospectus](/sponsor)
 
