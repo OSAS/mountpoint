@@ -10,7 +10,7 @@
 |  Opening: 9am - 9:15am 	|   	|   	|
 | 9:15am - 9:55am  	|  Software-Defined Storage Fast, Fast, Fast	 	| Making Ceph fast in the face of failure  	|
 |  10:00am - 10:45am 	|  OpenShift.io on Gluster: Adventures in production 	|  Anatomy of a librados client application 	|
-|   11:00am - 11:45am	| Testing Storage System Upgrades Successfully  	|   What Ever Happened to Durability?	|
+|   11:00am - 11:45am	| JBOD and Quotas	|   What Ever Happened to Durability?	|
 | Lunch  	|   	|   	|
 |  1:00pm - 1:45pm 	|  Multi-tenancy Approaches in Gluster 	|  Current and Future of Non-Volatile Memory on Linux	|
 |  2:00pm - 2:45pm	| Block Deduplication and Compression with VDO  	| Doctor! I need Ceph: a journey of open source storage in healthcare‍  	|
@@ -57,13 +57,18 @@ Speaker: Brad Hubbard
 
 Brad Hubbard is a Senior Software Engineer at Red Hat and works on RADOS, the open source, distributed object storage system at the heart of Ceph.
 
-### Testing Storage System Upgrades Successfully 
-Testing successful upgrade of a storage system is key to adoption and user friendliness. This talk describes the proposed upgrade testing framework for Gluster. 
-This talk is a discussion on the basics of a framework to handle this and how it will handle the simple to complex cases. This is a discussion with a proposaland PoC. I welcome feedback and comments that will help us improve this project to handle most of the edge cases.
+### JBOD Translators with Gluster
+The JBOD translator lets a single brick address multiple drives. This talk focuses on the motivations of JBOD, the design, tradeoffs, and potential problems and solutions.
 
-Speaker: Nigel Babu
+Speaker: Shreyas Siravara
 
-Nigel is a systems engineer at Red Hat. He originally started working on Gluster to build out the test pipeline. In this process, he's been roped as a co-maintainer for the test framework, Glusto. Nigel has been looking into how to test various pieces of Gluster and build that into a pipeline for the last year or so. Automated performance testing and upgrade testing are the main challenges that he's been trying to solve for upstream Gluster in the last year.
+Shreyas is a Production Engineer at Facebook on the POSIX Storage Team, and has been helping scale and run GlusterFS for ~3.5 years. 
+
+### Quota Management in Gluster
+Quota management is an important feature for any shared storage and can be a challenge to implement in the case of a distributed system. The existing quotas solution in GlusterFS strives for accurate space tracking with a performance tradeoff specially in the case of large cluster sizes. This talk introduces a new translator, QUOTAv2, that provides a scalable per-directory quota management in GlusterFS. The talk will describe the design details, limitations and present early stage results.  We will also talk about some of the future work planned in this area.  
+
+Speaker: Siri Uppalapati
+Siri is a Production Engineer at Facebook on the POSIX Storage Team, contributing to and supporting GlusterFS at scale . Prior to this Siri worked in the systems and storage industry for 13 years at Intel and then at EMC.
 
 ### What Ever Happened to Durability?
 Durability is a fundamental property that people and applications expect from storage systems.  Yet with scale-out systems and new types of hardware with complex firmware, it can be hard to implement, or even define durability. "Durability, the 'D' in ACID, is a fundamental property that people and applications expect from storage systems. Durability used to mean that you knew your data was safely on disk when ""the"" computer crashed - it was just a matter of waiting for the computer to come back up.  With today's complex, software defined, scale-out databases and filesystems Durability can be very hard to even define. Achieving it is stupendously hard given the partitioning problem, operating systems with flaky file systems, and storage devices with complex firmware.
