@@ -68,6 +68,7 @@ Shreyas is a Production Engineer at Facebook on the POSIX Storage Team, and has 
 Quota management is an important feature for any shared storage and can be a challenge to implement in the case of a distributed system. The existing quotas solution in GlusterFS strives for accurate space tracking with a performance tradeoff specially in the case of large cluster sizes. This talk introduces a new translator, QUOTAv2, that provides a scalable per-directory quota management in GlusterFS. The talk will describe the design details, limitations and present early stage results.  We will also talk about some of the future work planned in this area.  
 
 Speaker: Siri Uppalapati
+
 Siri is a Production Engineer at Facebook on the POSIX Storage Team, contributing to and supporting GlusterFS at scale . Prior to this Siri worked in the systems and storage industry for 13 years at Intel and then at EMC.
 
 ### What Ever Happened to Durability?
