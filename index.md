@@ -30,7 +30,7 @@ This is a co-located event with [Open Source Summit North America](https://event
 ## SPONSORS 
 <img src="images/Logo_RH_RGB_Default.png" alt="Red Hat" />
 <img src="images/SOFI-inline-CMYK_full_colour.png" alt="Softiron" />
-<im src="images/Intel.png" alt="Intel" />
+<img src="images/Intel.png" alt="Intel" />
 
 ## SPONSORSHIP
 [Our Sponsorship Prospectus](/sponsor)
