@@ -5,7 +5,7 @@
 # mountpoint
 ## August 28, 2018
 
-| Time  	| Session  	|   Session	|
+| Time  	| Session - Containers in 109  	|   Session - Platform in 110	|
 |---	|---	|---	|
 |  Opening: 9am - 9:15am 	|   	|   	|
 | 9:15am - 9:55am  	|  Software-Defined Storage Fast, Fast, Fast	 	| Making Ceph fast in the face of failure  	|
