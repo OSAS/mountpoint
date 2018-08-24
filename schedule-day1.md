@@ -7,7 +7,7 @@
 
 
 
-| Time  	| Session  	| Session  	|
+| Time  	| Session - Containers in 109  	| Session - Platform in 110  	|
 |---	|---	|---	|
 |  Opening: 9am - 9:15am 	|   	|   	|
 | 9:15am - 9:55am  	|  Approaches for duplicating Kubernetes storage with Gluster 	|  Bringing smart device failure prediction to Ceph 	|
