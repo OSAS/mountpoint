@@ -113,6 +113,8 @@ Alex Gorbachev: 1994 - present: founder and president of Intelligent Systems Ser
 ### Self-aware Ceph: enabling ceph-mgr to control Ceph services via Kubernetes 
 This session will describe and demonstrate a new framework for integrating Ceph with the orchestration framework it is running on, enabling ceph-mgr and the dashboard UI to deploy and manage Ceph services.
 
-Speaker: John Spray
+Speaker:  Travis Nielsen
 
-John is a Principal Software Engineer at Red Hat.  He has been an active contributor to the Ceph project since 2013, with a focus on CephFS and ceph-mgr.
+Travis Nielsen is a Senior Principal Software Engineer for Red Hat where he is a maintainer on Rook and advocate for Kubernetes Operators. Prior to Red Hat, Travis worked in storage at Quantum and Symform, a P2P storage startup, and was an engineering lead for the Windows Server group at Microsoft.
+
+
