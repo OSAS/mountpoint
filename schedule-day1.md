@@ -14,7 +14,7 @@
 |  10:00am - 10:45am 	|  Next-level storage automation with Operators 	| Pains & Pleasures Testing the Ceph Distributed Storage Stack  	|
 |   11:00am - 11:45am	|  A Cockpit view of gluster 	|   Ceph cloud object storage: the right way	|
 | Lunch  	|   	|   	|
-|  1:00pm - 1:45pm 	|  Where is my file anyway: A tour of on-disk Gluster data 	|   Lessons Learned Scaling Ceph for Public Clouds	|
+|  1:00pm - 1:45pm 	|  Architecting and performance-tuning efficient Gluster storage pools	|   Lessons Learned Scaling Ceph for Public Clouds	|
 |  2:00pm - 2:45pm	|  Latest storage IO patterns for cloud-native applications in k8s environment	|  Rook: Storage Orchestration for a Cloud-Native World 	|
 |  3:00pm - 3:45pm		|  Modernizing storage system patterns using container technologies 	|   What's new in Ceph	|
 |  Roundtable 4:00pm - 4:45pm|   	|   	|
@@ -75,13 +75,12 @@ Speaker: Orit Wasserman
 Orit is an experienced software engineer who is passionate about open source and infrastructure with extensive experience with distributed systems and storage. Currently she is working on Ceph object storage (Ceph Rados Gateway), a highly available distributed software defined storage designed to scale and handle PetaBytes scale. Previously she worked on live migration for KVM/QEMU and developed nested virtualization for KVM at IBM Research Labs.
 
 
-### Where is my file anyway: A tour of on-disk Gluster data
-Gluster is a distributed file system, which sits on top of existing file system. Depending on which feature of Gluster you are using, the layout the actual data can be different. Distributed layout logic in Gluster can get confusing for many users. Now bring the whole logic of replication or disperse (EC) based volumes, it will add more complexity. Now, for some users we have 'shard' feature, where the layout changes mores. It gets even more interesting when we add a feature called 'RIO'.
+### Architecting and performance-tuning efficient Gluster storage pools
 
-Speakers: Shyamsunder Ranganathan & Amar Tumballi 
+Speaker: Dustin Black
 
-Shyam is a member of the TLC (tech leadership council) in Gluster Upstream, and also manages the releases in Gluster. Involved in RIO work to help Gluster's scalability. 
-Amar is one of the day-0 member of GlusterFS project, and also currently active in Gluster Upstream.
+Dustin Black is a Storage product architect at Red Hat, primarily focused on automation and performance optimization of Gluster software-defined storage. He is the creator and maintainer of the gluster-colonizer project, a deployment orchestration toolset that leverages the power of Ansible. Dustin has worked with SDS at Red Hat for more than 6 years, beginning with the acquisition of Gluster. He has worked closely with enterprise users deploying Gluster and Ceph to solve critical business challenges, and in recent years has leveraged his expertise to continually simplify the SDS adoption process and provide technical guidance and reference architectures for price-performance match to workloads. Dustin has a deep wanderlust, enjoys cooking southern BBQ, and plays a bit of saxophone when the mood strikes him.
+
 
 ### Lessons Learned Scaling Ceph for Public Clouds
 DigitalOcean operates fifteen+ Ceph clusters that provide block and object services to global customers.  Topics covered include our experience as our deployments and user base has grown:
