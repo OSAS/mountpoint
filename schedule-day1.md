@@ -113,10 +113,10 @@ Jeffry Molanus has been in the storage world for over ten years and worked on va
 ### Rook: Storage Orchestration for a Cloud-Native World
 With the rise in popularity of cloud-native environments, the way that storage systems are run and managed has needed to adapt. In this talk, we will explore principles of orchestration for storage in cloud-native environments and walk through the architecture of the open-source Rook project.  We will also take a deep dive into Rook's orchestration of Ceph, a distributed storage system designed for performance, reliability and scalability.
 
-Speakers: Travis Nielsen, Jared Watts
+Speakers: Jared Watts
 
 Jared Watts is a Founding Engineer at Upbound, where he is working on advancing cloud-native computing by "freeing the cloud" and is also a maintainer for the open source Rook project (https://rook.io/). Before Upbound, he worked on innovative storage projects at Quantum Corp. and helped found Rook. Prior to Quantum, Jared worked on P2P storage distributed across the public internet at Symform, a startup later acquired by Quantum. Before that, Jared began his career at Microsoft working on applications for Windows Server setup and management.
-Travis Nielsen is a Senior Principal Software Engineer for Red Hat where he is a maintainer on Rook and advocate for Kubernetes Operators. Prior to Red Hat, Travis worked in storage at Quantum and Symform, a P2P storage startup, and was an engineering lead for the Windows Server group at Microsoft.
+
 
 ### Modernizing storage system patterns using container technologies
 Users have embraced the simplicity of managing containers at scale. Containerized applications can now easily be packaged, deployed, and managed on a containerized orchestration (CO) system like Kubernetes. Like any operating system, Kubernetes provides a set of functional primitives, process and resource management, and the ability to be extended. Now, users are looking to manage their applications, networking, and storage using the same control plane, no longer needing specialized administrators. Storage developers innovating new features in their storage systems need to be aware of these requirements and how to integrate their storage systems with the COs. In this presentation we will satisfy some of these requirements using the following models: storage locality, container native interfaces, cloud technologies, and operators. We will also provide demonstrations of these concepts.
