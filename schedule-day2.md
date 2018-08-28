@@ -12,9 +12,9 @@
 |  10:00am - 10:45am 	|  OpenShift.io on Gluster: Adventures in production 	|  Anatomy of a librados client application 	|
 |   11:00am - 11:45am	| JBOD and Quotas	|   What Ever Happened to Durability?	|
 | Lunch  	|   	|   	|
-|  1:00pm - 1:45pm 	|  Multi-tenancy Approaches in Gluster 	|  Current and Future of Non-Volatile Memory on Linux	|
+|  1:00pm - 1:45pm 	|  Multi-tenancy Approaches in Gluster 	|  Self-aware Ceph: enabling ceph-mgr to control Ceph services via Kubernetes|
 |  2:00pm - 2:45pm	| Block Deduplication and Compression with VDO  	| Doctor! I need Ceph: a journey of open source storage in healthcare‍  	|
-|  3:00pm - 3:45pm		| What's new in Gluster?  	|  Self-aware Ceph: enabling ceph-mgr to control Ceph services via Kubernetes 	|
+|  3:00pm - 3:45pm		| | Current and Future of Non-Volatile Memory on Linux 		|
 |  Roundtable 4:00pm - 4:45pm|   	|   	|
 |  Closing - 4:45pm to 5:00pm 	|   	|   	|
 
