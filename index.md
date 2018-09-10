@@ -17,8 +17,8 @@ We are joining forces with the Ceph and Gluster communities, SDS experts, and pa
 - Gain a competitive advantage by learning about the latest trends of SDS 
 
 ## SCHEDULE
-We've announced our program! 
 Two days of software defined storage! 
+Our recordings from both days are available at our [YouTube Channel](https://www.youtube.com/channel/UCfDF40G2ww02V9ILhvXugtg). 
 
 [August 27](/schedule-day1)
 
